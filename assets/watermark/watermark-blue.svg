@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" width="1040" height="440" fill="none">
+  <g opacity="0.18" transform="translate(260, 110) rotate(-18) translate(-220, -65)">
+    <rect x="10" y="18" width="84" height="84" rx="20" stroke="#345477" stroke-width="4" fill="none"/>
+    <path d="M30 38C30 35.7909 31.7909 34 34 34H50V82H34C31.7909 82 30 80.2091 30 78V38Z" stroke="#345477" stroke-width="3.5"/>
+    <path d="M54 34H70C72.2091 34 74 35.7909 74 38V78C74 80.2091 72.2091 82 70 82H54V34Z" stroke="#345477" stroke-width="3.5"/>
+    <path d="M62 34L74 46H64C62.8954 46 62 45.1046 62 44V34Z" fill="#D6B36A"/>
+    <text x="112" y="72" font-family="Plus Jakarta Sans, system-ui, sans-serif" font-size="52" font-weight="700" letter-spacing="-1" fill="#345477">NusaKlik</text>
+    <text x="114" y="98" font-family="Plus Jakarta Sans, system-ui, sans-serif" font-size="14" font-weight="600" letter-spacing="3.5" fill="#345477">DOKUMEN TRANSAKSI RESMI</text>
+  </g>
+</svg>
