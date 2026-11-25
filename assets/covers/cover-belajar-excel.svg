@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1080" viewBox="0 0 720 1080" fill="none">
+  <defs>
+    <linearGradient id="background" x1="72" y1="68" x2="653" y2="1009" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#214C40"/>
+      <stop offset="1" stop-color="#102F2A"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="158" y1="405" x2="571" y2="803" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EAF0F7"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#background)" d="M0 0h720v1080H0z"/>
+  <path fill="#D6B36A" d="M0 0h720v18H0z"/>
+  <circle cx="611" cy="147" r="151" fill="#6BAE91" fill-opacity=".12"/>
+  <circle cx="78" cy="1002" r="203" fill="#D6B36A" fill-opacity=".08"/>
+
+  <text x="66" y="91" fill="#D6B36A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="5">NUSAKLIK  /  E-BOOK</text>
+  <path d="M66 119h588" stroke="#D6B36A" stroke-opacity=".55" stroke-width="2"/>
+
+  <text x="66" y="220" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="2">BELAJAR</text>
+  <text x="66" y="290" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700">Microsoft</text>
+  <text x="66" y="359" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Excel</text>
+  <text x="68" y="409" fill="#D6B36A" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="4">DARI NOL</text>
+
+  <rect x="76" y="478" width="568" height="346" rx="22" fill="url(#panel)"/>
+  <rect x="99" y="500" width="522" height="48" rx="10" fill="#217346"/>
+  <text x="121" y="531" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">LEMBAR KERJA</text>
+  <path d="M214 566v219M345 566v219M476 566v219M99 620h522M99 675h522M99 730h522" stroke="#8EAAA0" stroke-opacity=".55" stroke-width="2"/>
+  <rect x="101" y="568" width="111" height="50" rx="5" fill="#DDEDE4"/>
+  <rect x="216" y="623" width="127" height="50" rx="5" fill="#DDEDE4"/>
+  <rect x="348" y="678" width="126" height="50" rx="5" fill="#DDEDE4"/>
+  <rect x="479" y="733" width="139" height="49" rx="5" fill="#DDEDE4"/>
+  <text x="125" y="601" fill="#217346" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">A</text>
+  <text x="256" y="601" fill="#217346" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">B</text>
+  <text x="388" y="601" fill="#217346" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">C</text>
+  <text x="519" y="601" fill="#217346" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">D</text>
+  <path d="m511 701 18 18 40-45" stroke="#217346" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+
+  <text x="68" y="899" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="2">PANDUAN PRAKTIS</text>
+  <text x="68" y="939" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="2">UNTUK PEMULA</text>
+  <path d="M68 978h112" stroke="#D6B36A" stroke-width="5"/>
+  <text x="68" y="1023" fill="#D6B36A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">BELAJAR BERTAHAP. PRAKTIK LANGSUNG.</text>
+</svg>
